@@ -5,6 +5,8 @@
 <svelte:head>
     <title>Paul's Webshop - Electronics for all!</title>
     <meta name="description" content="We sell used electronics for a super cheap price!">
+    <meta property="og:title" content="Paul's Webshop - Electronics for all!">
+    <meta property="og:image" content="{background}">
 </svelte:head>
 
 
@@ -13,10 +15,10 @@
     <h1 class="text-5xl">Electronic Devices</h1>
 </header>
 
-<main>
+<main class="min-h-[300px]">
 
 </main>
 
-<footer>
-
+<footer class="h-[300px] bg-blue-950 text-white flex items-center justify-center">
+    <p>Test-Page for SEO</p>
 </footer>
