@@ -7,6 +7,7 @@
 
 </script>
 
+
 <svelte:head>
     <title>Paul's Webshop - Electronics for all!</title>
     <meta name="description" content="We sell used electronics for a super cheap price!">
